@@ -2,3 +2,4 @@ escher
 cplex
 matplotlib
 reframed
+mewpy
