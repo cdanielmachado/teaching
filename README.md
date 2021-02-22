@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdanielmachado/teaching/master?filepath=fba.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdanielmachado/teaching/master)
 
 
 # Metabolic Modeling Tutorials
@@ -10,7 +10,7 @@ This repository contains a few tutorials on metabolic modeling. To run the examp
 To run these tutorials you need a Python 3.6 environment. If you don't have one already, you can install [miniconda](https://conda.io/miniconda.html). Then you need to install [ReFramed](http://reframed.readthedocs.io) and a few other packages.
 
 ```
-pip install reframed escher cplex matplotlib
+pip install reframed escher cplex matplotlib mewpy
 ```
 
 Please note that this will install the free version of [CPLEX](https://www.ibm.com/analytics/cplex-optimizer), which is limited to the simulation of small models. To install the full version you should obtain an academic license.
@@ -25,6 +25,6 @@ jupyter notebook
 
 ### Credits and License
 
-Daniel Machado, European Molecular Biology Laboratory, 2019
+Daniel Machado, Norwegian University of Science and Technology (NTNU), 2021
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
