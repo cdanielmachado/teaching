@@ -28,3 +28,7 @@ jupyter notebook
 Daniel Machado, Norwegian University of Science and Technology (NTNU), 2021
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+----------
+
+Binder hub mirrors (check status [here](https://mybinder.readthedocs.io/en/latest/about/status.html)): [gke](https://gke.mybinder.org/v2/gh/cdanielmachado/teaching/master), [ovh](https://ovh.mybinder.org/v2/gh/cdanielmachado/teaching/master), [gesis](https://gesis.mybinder.org/v2/gh/cdanielmachado/teaching/master), [turing](https://turing.mybinder.org/v2/gh/cdanielmachado/teaching/master)
