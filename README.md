@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdanielmachado/teaching/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cdanielmachado/teaching/master?urlpath=tree)
 
 
 # Metabolic Modeling Tutorials
@@ -31,4 +31,4 @@ Daniel Machado, Norwegian University of Science and Technology (NTNU), 2021
 
 ----------
 
-Binder hub mirrors (check status [here](https://mybinder.readthedocs.io/en/latest/about/status.html)): [gke](https://gke.mybinder.org/v2/gh/cdanielmachado/teaching/master), [ovh](https://ovh.mybinder.org/v2/gh/cdanielmachado/teaching/master), [gesis](https://gesis.mybinder.org/v2/gh/cdanielmachado/teaching/master), [turing](https://turing.mybinder.org/v2/gh/cdanielmachado/teaching/master)
+Binder hub mirrors (check status [here](https://mybinder.readthedocs.io/en/latest/about/status.html)): [gke](https://gke.mybinder.org/v2/gh/cdanielmachado/teaching/master?urlpath=tree), [ovh](https://ovh.mybinder.org/v2/gh/cdanielmachado/teaching/master?urlpath=tree), [gesis](https://gesis.mybinder.org/v2/gh/cdanielmachado/teaching/master?urlpath=tree), [turing](https://turing.mybinder.org/v2/gh/cdanielmachado/teaching/master?urlpath=tree)
